@@ -1,7 +1,2 @@
-
-exit
-git
-
-cdc..
-
+this is new test commit
 
