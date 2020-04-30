@@ -1,2 +1,4 @@
 this is new test commit
-this is sec
+this is second line inserted
+:q
+
