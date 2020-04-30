@@ -1,4 +1,8 @@
 this is new test commit
+<<<<<<< HEAD
 this is second line inserted
 :q
 
+=======
+this is sec
+>>>>>>> c40bfb63a72b0f36169c2dcea619c07b90d37529
